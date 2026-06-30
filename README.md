@@ -36,22 +36,6 @@ struct Unnatti: Developer {
 
 ---
 
-## 🏆 Highlights
-
-<div align="center">
-
-| 🏅 Achievement | 📋 Details |
-|---|---|
-| **WWDC '26 Swift Student Challenge** | Winner — 1 of 350 selected globally |
-| **Patent Issued** | AI Emergency Management System (No. 202521030781 A) |
-| **Book Chapter** | Cybersecurity Awareness & Digital Fraud Prevention *(In Press)* |
-| **HackMIT Ideathon** | Finalist — AI-Powered Code Review Tool (Top teams from 100+) |
-| **National Topper** | Subject Topper Award, 2021 |
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 ### 🔋 EV Battery Health Predictor *(AI/ML — EduNet Foundation Internship)*
