@@ -41,62 +41,6 @@ struct Unnatti: Developer {
 </p>
 
 
-## 🚀 Featured Projects
-
-### 🔋 EV Battery Health Predictor *(AI/ML — EduNet Foundation Internship)*
-> An end-to-end **ML pipeline** predicting Electric Vehicle battery health using supervised learning — built during an AI & Data Analytics internship.
-
-- 🧪 Evaluated multiple regression models with rigorous complexity and performance analysis to select the optimal predictor for battery degradation patterns
-- ⚡ Built a **Generative AI chatbot** alongside it for real-time user query resolution — cutting response time from minutes to seconds
-- 📊 Deployed an interactive **Streamlit dashboard** showcasing the full integrated pipeline (ML model + GenAI chatbot) in a single local interface
-- 🔧 **Stack:** Python · scikit-learn · Streamlit · Generative AI
-
----
-
-### 🆘 Lifeline — Emergency Response App *(WWDC '26 Winner)*
-> A fully **offline-capable** iOS emergency app delivering critical medical info within seconds of launch.
-
-- ⚡ One-tap SOS system: simultaneously contacts emergency services, shares live GPS via iMessage, and navigates to the nearest hospital
-- 📡 Offline guides for 5+ critical scenarios (cardiac events, seizures, asthma, vertigo) — zero internet dependency
-- 🔧 **Stack:** Swift · SwiftData · Core Location · iMessage API
-
----
-
-### 🧠 Parkinson's Care Companion App *(In Progress)*
-> Accessibility-first iOS app helping Parkinson's patients manage daily life independently.
-
-- 💊 Medication reminders, symptom & tremor tracking, therapeutic exercises, cognitive games
-- ♿ Elderly-friendly UI with accessibility-driven interactions for reduced motor control
-- 🔧 **Stack:** Swift · UIKit · Core Data
-
----
-
-### 🛒 Luxury Retail Store Management App *(Infosys — Production)*
-> Production-grade iOS app managing 10+ boutique stores for a luxury retail brand.
-
-- 📊 Real-time operational dashboards for staff scheduling, inventory alerts & performance tracking
-- ⚙️ 4–5 core systems: pricing engines, inventory control, promotion config, store governance
-- 🔧 **Stack:** Swift · UIKit · Supabase · Jira (3 Agile Sprint Cycles)
-
----
-
-### 🏏 Cricket Team Selector
-> Constraint-based optimal selection engine for squad evaluation.
-
-- 🔢 Priority queues + greedy filtering to evaluate all valid 11-player combinations
-- 🗄️ Normalized MySQL schema with query optimization for match history
-- 🔧 **Stack:** C++ · MySQL
-
----
-
-### 🤖 AI-Powered Code Review Tool *(HackMIT Finalist)*
-> Static analysis + AI error detection with actionable suggestions across 3–4 languages, embedded in VS Code.
-
-- 🌐 Multilingual interface, direct VS Code integration, reduced context-switching for devs
-- 🔧 **Stack:** Python · Generative AI · VS Code API
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
