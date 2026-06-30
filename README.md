@@ -34,7 +34,8 @@ struct Unnatti: Developer {
 }
 ```
 
----
+
+## 🏆 Trophies
 <p align="center">
 <img src="https://github-trophies.vercel.app/?username=UnnattiGogna&theme=radical&no-bg=true&no-frame=true&column=7" />
 </p>
